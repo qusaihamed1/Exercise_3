@@ -8,6 +8,6 @@ This project is a simple web page built using HTML and CSS. It includes styling 
 - `my-photo.jpg`: A personal or profile image. 🖼️
 ## How to Use 🖥️
 
-Simply open `index.html` in a web browser to view the page. 🌐
+Simply open `index.html` in a web browser to view the page. 🌐--
 Created as part of an exercise to practice web development basics. 💻
 
